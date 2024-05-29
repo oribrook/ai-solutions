@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header.jumbotron {
+    background-color: #007bff;
+    color: white;
+    padding: 2rem 1rem;
+}
+
+h1.display-4 {
+    font-weight: bold;
+}
+
+footer {
+    background-color: #f8f9fa;
+    color: #6c757d;
+}
+
+.container {
+    max-width: 800px;
+}
+
+form {
+    background: #f8f9fa;
+    padding: 1.5rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+}
+
+.form-group label {
+    font-weight: bold;
+}
